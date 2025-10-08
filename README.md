@@ -172,5 +172,3 @@ Purpose: Educational exercise (Authentication system + Tailwind CSS UI)
 
 
 ---
-
-Would you like me to extend this `README.md` with a **section about how to install Tailwind offline (without npm)** too, for completely offline environments?
