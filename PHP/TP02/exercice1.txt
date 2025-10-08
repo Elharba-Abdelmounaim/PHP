@@ -1,0 +1,10 @@
+<?php
+// Tableau des produits
+$produits = [
+    ['nom' => 'Ordinateur', 'quantite' => 10, 'prix' => 800],
+    ['nom' => 'Souris', 'quantite' => 50, 'prix' => 20],
+    ['nom' => 'Clavier', 'quantite' => 30, 'prix' => 50],
+    ['nom' => 'Écran', 'quantite' => 20, 'prix' => 150],
+    ['nom' => 'Imprimante', 'quantite' => 15, 'prix' => 100]
+];
+?>

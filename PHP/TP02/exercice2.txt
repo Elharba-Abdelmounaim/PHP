@@ -1,0 +1,52 @@
+<?php
+// Tableau des employés avec images et réseaux sociaux
+$employes = [
+    [
+        'nom' => 'Alice',
+        'poste' => 'Développeur',
+        'salaire' => 3500,
+        'date_embauche' => '2018-05-12',
+        'image' => 'https://via.placeholder.com/300x250.png?text=Alice',
+        'social' => [
+            'linkedin' => 'https://www.linkedin.com/in/alice',
+            'twitter' => 'https://twitter.com/alice',
+            'facebook' => 'https://facebook.com/alice'
+        ]
+    ],
+    [
+        'nom' => 'Bob',
+        'poste' => 'Designer',
+        'salaire' => 3200,
+        'date_embauche' => '2019-09-23',
+        'image' => 'https://via.placeholder.com/300x250.png?text=Bob',
+        'social' => [
+            'linkedin' => 'https://www.linkedin.com/in/bob',
+            'twitter' => 'https://twitter.com/bob',
+            'facebook' => 'https://facebook.com/bob'
+        ]
+    ],
+    [
+        'nom' => 'Clara',
+        'poste' => 'Manager',
+        'salaire' => 5000,
+        'date_embauche' => '2015-02-01',
+        'image' => 'https://via.placeholder.com/300x250.png?text=Clara',
+        'social' => [
+            'linkedin' => 'https://www.linkedin.com/in/clara',
+            'twitter' => 'https://twitter.com/clara',
+            'facebook' => 'https://facebook.com/clara'
+        ]
+    ],
+    [
+        'nom' => 'David',
+        'poste' => 'Chef de projet',
+        'salaire' => 4500,
+        'date_embauche' => '2017-07-18',
+        'image' => 'https://via.placeholder.com/300x250.png?text=David',
+        'social' => [
+            'linkedin' => 'https://www.linkedin.com/in/david',
+            'twitter' => 'https://twitter.com/david',
+            'facebook' => 'https://facebook.com/david'
+        ]
+    ]
+];

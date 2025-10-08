@@ -1,0 +1,17 @@
+$produits = [
+    'Électronique' => [
+        ['titre' => 'Smartphone', 'image' => 'https://via.placeholder.com/150', 'description' => 'Un smartphone dernier cri avec écran OLED.', 'prix' => 699],
+        ['titre' => 'Tablette', 'image' => 'https://via.placeholder.com/150', 'description' => 'Une tablette légère et rapide.', 'prix' => 499],
+        ['titre' => 'Casque Bluetooth', 'image' => 'https://via.placeholder.com/150', 'description' => 'Un casque sans fil avec réduction de bruit.', 'prix' => 199]
+    ],
+    'Vêtements' => [
+        ['titre' => 'T-shirt', 'image' => 'https://via.placeholder.com/150', 'description' => 'T-shirt 100% coton.', 'prix' => 25],
+        ['titre' => 'Jeans', 'image' => 'https://via.placeholder.com/150', 'description' => 'Jean slim fit.', 'prix' => 45],
+        ['titre' => 'Veste', 'image' => 'https://via.placeholder.com/150', 'description' => 'Veste en cuir.', 'prix' => 120]
+    ],
+    'Maison' => [
+        ['titre' => 'Canapé', 'image' => 'https://via.placeholder.com/150', 'description' => 'Canapé 3 places confortable.', 'prix' => 799],
+        ['titre' => 'Lampe', 'image' => 'https://via.placeholder.com/150', 'description' => 'Lampe LED moderne.', 'prix' => 59],
+        ['titre' => 'Table basse', 'image' => 'https://via.placeholder.com/150', 'description' => 'Table basse en verre.', 'prix' => 149]
+    ]
+];
