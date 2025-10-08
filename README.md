@@ -103,11 +103,13 @@ Control spacing with p-*, m-*, or directional variants:
 
 
 
-Class	Description
-p-4	Padding 1rem
-px-2	Horizontal padding
-mt-4	Margin top
-space-y-4	Vertical spacing between child elements
+| **Class**     | **Description**                       |
+|----------------|----------------------------------------|
+| `p-4`          | Padding of 1rem                        |
+| `px-2`         | Horizontal padding                     |
+| `mt-4`         | Top margin                             |
+| `space-y-4`    | Vertical spacing between child elements |
+
 
 5. 🔲 Layout & Alignment (Flexbox)
 
@@ -120,12 +122,14 @@ Use flex utilities for centering or alignment:
 </div>
 
 ```
+| **Class**        | **Meaning**                |
+|------------------|----------------------------|
+| `flex`           | Enables flexbox layout     |
+| `items-center`   | Centers vertically         |
+| `justify-center` | Centers horizontally       |
+| `flex-col`       | Stacks items vertically    |
 
-Class	Meaning
-flex	Enables flexbox layout
-items-center	Center vertically
-justify-center	Center horizontally
-flex-col	Stack elements vertically
+
 6. 🟣 Rounded Corners & Shadows
 
 ```
@@ -134,11 +138,16 @@ flex-col	Stack elements vertically
 </div>
 ```
 
+| **Class**       | **Description**              |
+|-----------------|------------------------------|
+| `rounded`       | Small corner radius          |
+| `rounded-lg`    | Medium rounded corners       |
+| `rounded-2xl`   | Large rounded corners        |
+| `shadow`        | Adds a soft shadow           |
+| `shadow-md`     | Medium shadow                |
+| `shadow-lg`     | Large shadow effect          |
 
-Class	Description
-rounded	Small radius
-rounded-lg, rounded-2xl	Larger radius
-shadow, shadow-md, shadow-lg	Adds elevation effect
+
 7. ⚪ White Text
 
 Used for dark backgrounds:
